@@ -1,0 +1,92 @@
+body{
+    background: whitesmoke;
+}
+h1{
+    cursor: pointer; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    padding: 5px;
+    margin-left: 110px;
+}
+.container{
+    margin: 100px;
+}
+.container, .row, .col-sm, .content-left{
+    margin-left: 40px;
+    text-align: center;
+}
+.content-left{
+    width: 80%;
+    margin-left: 1%;
+    padding: 15px;
+    border: 1px solid whitesmoke;
+    box-shadow: 1px 2px 10px grey;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 20px;
+    font-weight: bolder
+}
+.figure{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 190px;
+    margin-right: 50px;
+}
+.jarak{
+    margin-left:10px;
+}
+.form-group{
+    width: 290px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+label{
+    float: left;
+}
+.paragraf{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    margin: 10px 0;
+    color: gray;
+}
+.checkbox{
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+    margin-top:0;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+b{
+    color: rgb(206, 14, 14);
+}
+#tombol-login{
+    width: 85%;
+    margin: 20px;
+    padding: 8px;
+    font-weight: bolder;
+}
+#emailHelp{
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 10px;
+}
+.content-right{
+    padding: 15px; 
+    border: 1px solid whitesmoke;
+    box-shadow: 1px 2px 10px grey;
+}
+#tomlog{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    padding: 8px;
+    color: black;
+    font-weight: bolder;
+}
+.list-feature{
+    line-height: 25px;
+    margin: 10px 0;
+}

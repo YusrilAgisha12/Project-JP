@@ -1,0 +1,64 @@
+h1{
+    cursor: pointer; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    padding: 5px;
+    margin-left: 110px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 19%;
+}
+p{
+    font-size: 21px;
+    margin: 25px; 
+    text-align: center;
+}
+i{
+    font-weight: bold;
+}
+b{
+    color: red;
+}
+.form-group{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 18%;
+}
+.text{
+    padding: 15px;
+    margin:auto;
+    text-align: center;
+    background: white;
+    width: 50%;
+    margin-top: 50px;
+    box-shadow: 2px 5px 5px gainsboro;  
+}
+.checkbox{
+    margin-top: 35px;
+}
+.list-future{
+    margin-left: 42%;
+    padding: 3px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.login{
+    margin-top: 35px;
+}
+#tombol-login{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 31%;
+    width: 40%;
+}
+.text1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    font-size: 15px;
+}
